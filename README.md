@@ -1,32 +1,64 @@
+[MAIN WEB.HTML](https://github.com/user-attachments/files/24800330/MAIN.WEB.HTML)
 <!DOCTYPE html>
-  <html>
- <head>
-  <button onclick="document.location='file:/C:/Users/nwaji/OneDrive/Desktop/index.html/lyrics.html'">Click to see all about the song</button>
- <title> fazzy gang</title>
- </head>
-<body> 
-  
-    <h1>MMS icon pics </h1>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Amazing Glory International School</title>
+<link rel="stylesheet" href="MAIN.css">
+</head>
+<body>
 
-<a href="https://www.bing.com/images/search?q=mms+wizkid&form=HDRSC3&first=1">
-<img src="images/360x360bb.webp"
-height="200" width="200">
-  </a>
-<h2> ASAKE FT WIZKID</h2>
-  </a>
-    <br>
-  
-    <a href="lyrics.html">
-    song lyrics 
-    </a>
-   <br>
 
-    <a href="mailto:nwajianyafavour@gmail.com">
-        Email me 
-   
-   <br>
-     </a>
-     <a href="https://www.bing.com/images/search?q=mms+wizkid&form=HDRSC3&first=1">About us</a>
-<h3>oloron</h3>
+<header>
+<h1>Amazing Glory International School</h1>
+<p>Eziama Uli, Anambra State, Nigeria</p>
+</header>
 
-  
+<nav>
+<a href="#">Home</a>
+<a href="#">About Us</a>
+<a href="#">Academics</a>
+<a href="#">Admissions</a>
+<a href="#">Contact</a>
+</nav>
+
+
+<section class="hero">
+<h2>Raising Future Leaders</h2>
+<p>Quality education with moral excellence</p>
+</section>
+
+
+<section class="content">
+<h2>About Our School</h2>
+<p>
+Amazing Glory International School is a reputable institution located in
+Eziama Uli, Anambra State, Nigeria. We are committed to academic excellence,
+discipline, and character building.
+</p>
+</section>
+
+<section class="content">
+<h2>Our Academics</h2>
+<ul>
+<li>Nursery Education</li>
+<li>Primary Education</li>
+<li>Junior Secondary School</li>
+<li>Senior Secondary School</li>
+</ul>
+</section>
+
+
+<section class="content">
+<h2>Contact Us</h2>
+<p><strong>Address:</strong> Eziama Uli, Anambra State, Nigeria</p>
+<p><strong>Phone:</strong> +447424458078</p>
+<p><strong>Email:</strong> amazinggloryintschool@gmail.com</p>
+</section>
+
+
+<footer>
+<p>&copy; 2026 Amazing Glory International School. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
